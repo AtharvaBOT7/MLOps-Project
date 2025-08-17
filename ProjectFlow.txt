@@ -1,0 +1,9 @@
+Setting up the project structure
+
+1. Install cookiecutter using
+    >> pip install cookiecutter
+2.  Run the following command in your terminal to get a project structure template:
+    >> cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science
+3. Remove the project named folder after copying the folders and files in your main local project directory.
+4. Rename src.models to src.model
+5. 
