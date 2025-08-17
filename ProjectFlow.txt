@@ -1,4 +1,4 @@
-Setting up the project structure
+--------------------------------Setting up the project structure--------------------------------
 
 1. Install cookiecutter using
     >> pip install cookiecutter
@@ -6,4 +6,10 @@ Setting up the project structure
     >> cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science
 3. Remove the project named folder after copying the folders and files in your main local project directory.
 4. Rename src.models to src.model
-5. 
+
+
+--------------------------------Setting up MLFlow on Dagshub--------------------------------
+5. Go to Dagshub dashboard on the internet.
+6. Create a new repository and connect that repo to your github repository. 
+    >> Create -> New Repo -> Connect a repo (Github) -> Connect -> Select the repo -> Connect
+7. 

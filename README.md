@@ -1,7 +1,7 @@
-MLOps Project
+Movie Review Sentiment Analysis MLOps Project
 ==============================
 
-End to end MLOps project for learning purposes
+End to end MLOps project for Movie review sentiment analysis.
 
 Project Organization
 ------------
