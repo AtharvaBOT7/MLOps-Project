@@ -12,4 +12,5 @@
 5. Go to Dagshub dashboard on the internet.
 6. Create a new repository and connect that repo to your github repository. 
     >> Create -> New Repo -> Connect a repo (Github) -> Connect -> Select the repo -> Connect
-7. 
+7. Added the IMDB.csv dataset to the notebooks folder
+8. 
