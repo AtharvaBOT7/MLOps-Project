@@ -12,3 +12,5 @@ dagshub
 cookiecutter
 mlflow
 ipykernel
+nltk
+ipywidgets
