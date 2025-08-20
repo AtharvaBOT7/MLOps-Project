@@ -14,3 +14,4 @@ mlflow
 ipykernel
 nltk
 ipywidgets
+xgboost
