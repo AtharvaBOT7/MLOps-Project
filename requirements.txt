@@ -16,3 +16,4 @@ nltk
 ipywidgets
 xgboost
 dvc
+boto3

@@ -71,11 +71,11 @@ def save_data(train_data: pd.DataFrame, test_data: pd.DataFrame, data_path: str)
 
 def main():
     try:
-        params = load_params(params_path='params.yaml')
-        test_size = params['data_ingestion']['test_size']
-        # test_size = 0.2
+        # params = load_params(params_path='params.yaml')
+        # test_size = params['data_ingestion']['test_size']
+        test_size = 0.2
         
-        df = load_data(data_url='https://raw.githubusercontent.com/vikashishere/Datasets/refs/heads/main/data.csv')
+        df = load_data(data_url='https://raw.githubusercontent.com/AtharvaBOT7/MLOps-Project/refs/heads/main/notebooks/data.csv')
         # s3 = s3_connection.s3_operations("bucket-name", "accesskey", "secretkey")
         # df = s3.fetch_file_from_s3("data.csv")
 
