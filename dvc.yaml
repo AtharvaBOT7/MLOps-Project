@@ -48,7 +48,7 @@ stages:
     - reports/experiment_info.json 
 
   model_registration:
-    cmd: python src/model/register_model.py
+    cmd: python src/models/register_model.py
     deps:
     - reports/experiment_info.json
-    - src/model/register_model.py
+    - src/models/register_model.py
