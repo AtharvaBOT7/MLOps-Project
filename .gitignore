@@ -1,7 +1,8 @@
 atlas
 env.txt
 firstproj_accessKeys.csv
-model
+model/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
