@@ -1,8 +1,9 @@
 atlas
 env.txt
 firstproj_accessKeys.csv
-model/
 data/
+model/vectorizer.pkl
+model/model.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
