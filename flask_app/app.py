@@ -69,8 +69,8 @@ def normalize_text(text):
 
 # Below code block is for local use
 # -------------------------------------------------------------------------------------
-mlflow.set_tracking_uri('https://dagshub.com/atharvachundurwar841/MLOps-Project.mlflow')
-dagshub.init(repo_owner='atharvachundurwar841', repo_name='MLOps-Project', mlflow=True)
+# mlflow.set_tracking_uri('https://dagshub.com/atharvachundurwar841/MLOps-Project.mlflow')
+# dagshub.init(repo_owner='atharvachundurwar841', repo_name='MLOps-Project', mlflow=True)
 # -------------------------------------------------------------------------------------
 
 # Below code block is for production use
