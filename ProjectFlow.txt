@@ -57,5 +57,4 @@
     >> Please make sure to save token << >> capstone_test: <
     >> Add this auth token to github secret&var and update on ci file
 
-
 31. Add dir "tests"&"scripts" and files within. This will contain our test related scripts for CI.
