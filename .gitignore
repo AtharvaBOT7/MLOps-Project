@@ -4,6 +4,7 @@ firstproj_accessKeys.csv
 data/
 model/vectorizer.pkl
 model/model.pkl
+mlruns
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
